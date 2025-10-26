@@ -1,9 +1,12 @@
 ## 1. Hình ảnh sơ đồ kiến trúc hệ thống
 ![alt text](image-4.png)
 
-## 2. Biểu đồ tuần tự
+## 2. Hình ảnh sơ đồ ERD
+![alt text](image-5.png)
 
-### 2.1 Biểu đồ tuần tự chức năng đăng ký
+## 2. Sơ đồ tuần tự
+
+### 2.1 Sơ đồ tuần tự chức năng đăng ký
 
 ```mermaid
 sequenceDiagram
@@ -55,7 +58,7 @@ sequenceDiagram
 ```
 
 
-### 2.2. Biểu đồ tuần tự chức năng đăng tin tuyển dụng
+### 2.2. Sơ đồ tuần tự chức năng đăng tin tuyển dụng
 
 ```mermaid
 sequenceDiagram
@@ -107,7 +110,7 @@ sequenceDiagram
     end
 ```
 
-### 2.3. Biểu đồ tuần tự chức năng ứng tuyển
+### 2.3. Sơ đồ tuần tự chức năng ứng tuyển
 
 ```mermaid
 sequenceDiagram
@@ -157,7 +160,7 @@ sequenceDiagram
     end
 ```
 
-### 2.4. Biểu đồ tuần tự chức năng quản lý quy trình ứng tuyển
+### 2.4. Sơ đồ tuần tự chức năng quản lý quy trình ứng tuyển
 
 ```mermaid
 sequenceDiagram
@@ -220,16 +223,16 @@ sequenceDiagram
     end
 ```
 
-## 3. Biểu đồ hoạt động
+## 3. Sơ đồ hoạt động
 
-### 3.1. Biểu đồ hoạt động chức năng đăng ký
+### 3.1. Sơ đồ hoạt động chức năng đăng ký
 ![alt text](image-1.png)
 
-### 3.2. Biểu đồ hoạt động chức năng đăng tin
+### 3.2. Sơ đồ hoạt động chức năng đăng tin
 ![alt text](image.png)
 
-### 3.3. Biểu đồ hoạt động chức năng quản lý tin tuyển dụng
+### 3.3. Sơ đồ hoạt động chức năng quản lý tin tuyển dụng
 ![alt text](image-2.png)
 
-### 3.4. Biểu đồ hoạt động chức năng quản lý danh sách ứng viên
+### 3.4. Sơ đồ hoạt động chức năng quản lý danh sách ứng viên
 ![alt text](image-3.png)
